@@ -33,8 +33,8 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE | My Works |
 |--|--|--|--|--|--|--|--|
-| [VieweDisplay 1.5" Knob](https://s.click.aliexpress.com/e/_c4n95XyJ) | <img src="Elements/VieweDisplay/VieweDisplay 1_5 Knob.png" height="100"/> | 466×466 | ESP32-S3 | 16MB / 8MB | 8.4.0 | Arduino / PlatformIO / ESP-IDF | 🚧 |
-| [VieweDisplay 2.1" Knob](https://s.click.aliexpress.com/e/_c3PRJgU3) | <img src="Elements/VieweDisplay/VieweDisplay 2_1 Knob.png" height="100"/> | 480×480 | ESP32-S3 | 16MB / 8MB | 8.4.0 | Arduino / PlatformIO / ESP-IDF | 🚧 |
+| [VieweDisplay 1.5" Knob](https://s.click.aliexpress.com/e/_c4n95XyJ) | <img src="Elements/VieweDisplay/VieweDisplay 1_5 Knob.png" height="100"/> | 466×466 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO | 🚧 |
+| [VieweDisplay 2.1" Knob](https://s.click.aliexpress.com/e/_c3PRJgU3) | <img src="Elements/VieweDisplay/VieweDisplay 2_1 Knob.png" height="100"/> | 480×480 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO | 🚧 |
 
 
 </details>
