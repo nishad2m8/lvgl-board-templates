@@ -1,0 +1,41 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# Compiler configs
+.clang_complete
+.gcc-flags.json
+
+# VS Code
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/ipch
+
+# Build directories
+.build/
+build/
+cmake-build-*/
+
+# ESP-IDF specific
+sdkconfig
+sdkconfig.old
+components/**/build/
+esp-idf/
+managed_components/
+dependencies.lock
+
+# Logs and temp
+*.log
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db

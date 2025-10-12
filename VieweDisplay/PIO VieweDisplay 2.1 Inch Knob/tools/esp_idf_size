@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+"""
+Lightweight shim for esp_idf_size to avoid failures from unknown flags (e.g. --ng)
+in mixed toolchain environments. It accepts any arguments and exits successfully.
+
+This script is intentionally a no-op to prevent build warnings/errors while
+still allowing the firmware to link and package normally.
+"""
+import sys
+
+def main():
+    # Accept all args, ignore them, and indicate success
+    # Optionally, you could print nothing or minimal info.
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main())
+
