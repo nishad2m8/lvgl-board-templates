@@ -25,16 +25,31 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 
 ---
 
+<img src="Elements/WaveShare/WaveShare.png" height="50" /> 
+
+<details>
+  <summary><strong>WaveShare Boards (click to expand)</strong></summary>
+
+| 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
+|--|--|--|--|--|--|--|
+| [WaveShare 3.49"](https://s.click.aliexpress.com/e/_c3bE6ppN) | <img src="Elements/WaveShare/WaveShare 3.49.png" width="250"/> | 640x172 | ESP32-S3 | 16MB / 8MB | 9.3.0 | PlatformIO |
+| [WaveShare 1.47"](https://s.click.aliexpress.com/e/_c4F3cDgx) | <img src="Elements/WaveShare/WaveShare 1.47.png" width="250"/> | 480×480 | ESP32-C6 | 4MB | 8.3.0 | ESP IDF | 
+
+
+</details>
+
+---
+
 
 <img src="Elements/VieweDisplay/Viewe display.png" height="100" /> 
 
 <details>
   <summary><strong>Viewe Boards (click to expand)</strong></summary>
 
-| 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE | My Works |
-|--|--|--|--|--|--|--|--|
-| [VieweDisplay 1.5" Knob](https://s.click.aliexpress.com/e/_c4n95XyJ) | <img src="Elements/VieweDisplay/VieweDisplay 1_5 Knob.png" height="100"/> | 466×466 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO | 🚧 |
-| [VieweDisplay 2.1" Knob](https://s.click.aliexpress.com/e/_c3PRJgU3) | <img src="Elements/VieweDisplay/VieweDisplay 2_1 Knob.png" height="100"/> | 480×480 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO | 🚧 |
+| 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
+|--|--|--|--|--|--|--|
+| [VieweDisplay 1.5" Knob](https://s.click.aliexpress.com/e/_c4n95XyJ) | <img src="Elements/VieweDisplay/VieweDisplay 1_5 Knob.png" width="250"/> | 466×466 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO |
+| [VieweDisplay 2.1" Knob](https://s.click.aliexpress.com/e/_c3PRJgU3) | <img src="Elements/VieweDisplay/VieweDisplay 2_1 Knob.png" width="250"/> | 480×480 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO | 
 
 
 </details>

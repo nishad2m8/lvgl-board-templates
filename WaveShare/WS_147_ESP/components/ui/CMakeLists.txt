@@ -1,0 +1,11 @@
+idf_component_register(
+    SRCS
+        "ui.c"
+        "screens.c"
+        "styles.c"
+        "images.c"
+    INCLUDE_DIRS
+        "."
+    REQUIRES
+        lvgl__lvgl
+)

@@ -1,0 +1,37 @@
+idf_component_register(
+    SRCS
+        "main.c"
+        "LCD_Driver/Vernon_ST7789T/Vernon_ST7789T.c"
+        "LCD_Driver/ST7789.c"
+        "LVGL_Driver/LVGL_Driver.c"
+        "LVGL_UI/LVGL_Example.c"
+        "SD_Card/SD_SPI.c"
+        "RGB/RGB.c"
+        "Wireless/Wireless.c"
+    INCLUDE_DIRS
+        "./LCD_Driver/Vernon_ST7789T"
+        "./LCD_Driver"
+        "./LVGL_Driver"
+        "./LVGL_UI"
+        "./SD_Card"
+        "./RGB"
+        "./Wireless"
+        "."
+    REQUIRES
+        bt
+        esp_event
+        esp_lcd
+        esp_netif
+        esp_timer
+        esp_wifi
+        esp_driver_gpio
+        esp_driver_ledc
+        esp_driver_spi
+        esp_driver_sdmmc
+        esp_driver_sdspi
+        fatfs
+        nvs_flash
+        sdmmc
+        spi_flash
+        ui
+)
