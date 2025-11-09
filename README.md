@@ -28,23 +28,34 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 <img src="Elements/WaveShare/WaveShare.png" height="50" /> 
 
 <details>
-  <summary><strong>WaveShare Boards (click to expand)</strong></summary>
+  <summary><strong>🧩 WaveShare Boards (click to expand)</strong></summary>
 
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
 |--|--|--|--|--|--|--|
 | [WaveShare 3.49"](https://s.click.aliexpress.com/e/_c3bE6ppN) | <img src="Elements/WaveShare/WaveShare 3.49.png" width="250"/> | 640x172 | ESP32-S3 | 16MB / 8MB | 9.3.0 | PlatformIO |
-| [WaveShare 1.47"](https://s.click.aliexpress.com/e/_c4F3cDgx) | <img src="Elements/WaveShare/WaveShare 1.47.png" width="250"/> | 480×480 | ESP32-C6 | 4MB | 8.3.0 | ESP IDF | 
-
+| [WaveShare 1.47"](https://s.click.aliexpress.com/e/_c4F3cDgx) | <img src="Elements/WaveShare/WaveShare 1.47.png" width="250"/> | 480×480 | ESP32-C6 | 4MB | 8.3.0 | ESP-IDF | 
 
 </details>
 
 ---
 
-
-<img src="Elements/VieweDisplay/Viewe display.png" height="100" /> 
+<img src="Elements/Elecrow/ELECROW_LOGO.png" height="50" /> 
 
 <details>
-  <summary><strong>Viewe Boards (click to expand)</strong></summary>
+  <summary><strong>🧩 Elecrow Boards (click to expand)</strong></summary>
+
+| 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
+|--|--|--|--|--|--|--|
+| [CrowPanel Advance 2.4“](https://s.click.aliexpress.com/e/_c4nFay3N) | <img src="Elements/Elecrow/CrowPanel Advance 2.4.png" width="250"/> | 320x240 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO |
+
+</details>
+
+---
+
+<img src="Elements/VieweDisplay/Viewe display.png" height="75" /> 
+
+<details>
+  <summary><strong>🧩 Viewe Boards (click to expand)</strong></summary>
 
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
 |--|--|--|--|--|--|--|
@@ -55,6 +66,18 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 </details>
 
 ---
+
+<img src="Elements/M5stack/M5Stack.png" height="100" /> 
+
+<details>
+  <summary><strong>🧩 M5Stack Boards (click to expand)</strong></summary>
+
+| 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
+|--|--|--|--|--|--|--|
+| [CardPuter + ADV](https://s.click.aliexpress.com/e/_c3JAn5IJ) | <img src="Elements/M5stack/Cardputer.png" width="250"/> | 240x135 | ESP32-S3 | 8MB Flash / No PSRAM | 9.0.0 | PlatformIO |
+
+
+</details>
 
 
 
