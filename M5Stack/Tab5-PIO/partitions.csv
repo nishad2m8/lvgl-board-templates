@@ -1,0 +1,7 @@
+# Name,   Type, SubType, Offset,  Size, Flags
+# Note: if you have increased the bootloader size, make sure to update the offsets to avoid overlap,,,,
+# Maximized for 16MB flash, no OTA
+nvs,data,nvs,0x9000,0x6000,
+phy_init,data,phy,0xf000,0x1000,
+factory,app,factory,0x10000,15M,
+storage,data,spiffs,,900K,

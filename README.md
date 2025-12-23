@@ -33,8 +33,9 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
 |--|--|--|--|--|--|--|
 | [WaveShare 3.49"](https://s.click.aliexpress.com/e/_c3bE6ppN) | <img src="Elements/WaveShare/WaveShare 3.49.png" width="250"/> | 640x172 | ESP32-S3 | 16MB / 8MB | 9.3.0 | PlatformIO |
-| [WaveShare 1.47"](https://s.click.aliexpress.com/e/_c4F3cDgx) | <img src="Elements/WaveShare/WaveShare 1.47.png" width="250"/> | 480×480 | ESP32-C6 | 4MB | 8.3.0 | ESP-IDF | 
-| [WaveShare 4.3"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 4.3.png" width="350"/> | 800x480 | ESP32-C6 | 16MB / 8MB | 8.4.0 | PlatformIO | 
+| [WaveShare 1.47"](https://s.click.aliexpress.com/e/_c4F3cDgx) | <img src="Elements/WaveShare/WaveShare 1.47.png" height="100"/> | 480×480 | ESP32-C6 | 4MB | 8.3.0 | ESP-IDF | 
+| [WaveShare 4.3"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 4.3.png" width="350"/> | 800x480 | ESP32-S6 | 16MB / 8MB | 8.4.0 | PlatformIO | 
+| [WaveShare 1.54"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 4.3.png" width="350"/> | 200x200 | ESP32-s6 | 16MB / 8MB | 8.4.0 | PlatformIO | 
 
 </details>
 
@@ -68,14 +69,16 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 
 ---
 
-<img src="Elements/M5stack/M5Stack.png" height="100" /> 
+<img src="Elements/M5stack/M5Stack_.png" height="100" /> 
 
 <details>
   <summary><strong>🧩 M5Stack Boards (click to expand)</strong></summary>
 
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
 |--|--|--|--|--|--|--|
-| [CardPuter + ADV](https://s.click.aliexpress.com/e/_c3JAn5IJ) | <img src="Elements/M5stack/Cardputer.png" width="250"/> | 240x135 | ESP32-S3 | 8MB Flash / No PSRAM | 9.0.0 | PlatformIO |
+| [CardPuter + ADV](https://s.click.aliexpress.com/e/_c3JAn5IJ) | <img src="Elements/M5stack/Cardputer_.png" width="250"/> | 240x135 | ESP32-S3 | 8MB Flash / No PSRAM | 9.0.0 | PlatformIO |
+| [Tab5](https://s.click.aliexpress.com/e/_c38WI04V) | <img src="Elements/M5stack/Tab5.png" width="250"/> | 1280x720 | ESP32-P4 & ESP32-C6 | 16MB Flash / 32MB PSRAM | 8.3.11 | PlatformIO |
+| [CoreS3](https://s.click.aliexpress.com/e/_c3CppBCt) | <img src="Elements/M5stack/CoreS3.png" width="250"/> | 320x240 | ESP32-S3 | 16MB Flash / 8MB PSRAM | 8.3.0 | PlatformIO |
 
 
 </details>

@@ -1,0 +1,11 @@
+{
+  "name": "temp_humidity",
+  "version": "1.0.0",
+  "build": {
+    "srcFilter": [
+      "+<*.c>",
+      "+<*.cpp>",
+      "+<*.h>"
+    ]
+  }
+}
