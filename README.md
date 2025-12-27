@@ -17,6 +17,7 @@ A collection of ready-to-use LVGL templates and examples for various microcontro
   </a>
 </p>
 
+
 ---
 
 # 🧩 Supported boards
@@ -34,8 +35,9 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 |--|--|--|--|--|--|--|
 | [WaveShare 3.49"](https://s.click.aliexpress.com/e/_c3bE6ppN) | <img src="Elements/WaveShare/WaveShare 3.49.png" width="250"/> | 640x172 | ESP32-S3 | 16MB / 8MB | 9.3.0 | PlatformIO |
 | [WaveShare 1.47"](https://s.click.aliexpress.com/e/_c4F3cDgx) | <img src="Elements/WaveShare/WaveShare 1.47.png" height="100"/> | 480×480 | ESP32-C6 | 4MB | 8.3.0 | ESP-IDF | 
-| [WaveShare 4.3"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 4.3.png" width="350"/> | 800x480 | ESP32-S6 | 16MB / 8MB | 8.4.0 | PlatformIO | 
-| [WaveShare 1.54"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 1.54.png" width="100"/> | 200x200 | ESP32-s6 | 8MB / 8MB | 8.4.0 | PlatformIO & ESP-IDF | 
+| [WaveShare 4.3"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 4.3.png" width="350"/> | 800x480 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO | 
+| [WaveShare 1.54"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 1.54.png" width="100"/> | 200x200 | ESP32-S3 | 8MB / 8MB | 8.4.0 | PlatformIO & ESP-IDF | 
+| [WaveShare 1.47 S3 Tocuh"](https://s.click.aliexpress.com/e/_c34yxe2Z) | <img src="Elements/WaveShare/WaveShare 1.47 s3.png" width="250"/> | 172x320 | ESP32-S3 | 8MB / 8MB | 8.4.0 |  ESP-IDF | 
 
 </details>
 
