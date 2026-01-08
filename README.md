@@ -51,7 +51,7 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
 |--|--|--|--|--|--|--|
 | [CrowPanel Advance 2.4“](https://s.click.aliexpress.com/e/_c4nFay3N) | <img src="Elements/Elecrow/CrowPanel Advance 2.4.png" width="250"/> | 320x240 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO |
-| [CrowPanel Advance 2.1“](https://s.click.aliexpress.com/e/_c4qSokFb) | <img src="Elements/Elecrow/CrowPanel 2.1.png" width="250"/> | 480x480 | ESP32-S3 | 16MB / 8MB | 8.x | PlatformIO |
+| [CrowPanel Advance 2.1“](https://s.click.aliexpress.com/e/_c4qSokFb) | <img src="Elements/Elecrow/CrowPanel 2.1.png" width="250"/> | 480x480 | ESP32-S3 | 16MB / 8MB | 8.x / 9.x | PlatformIO |
 | [CrowPanel Advance 1.28“](https://s.click.aliexpress.com/e/_c3UWSBDT) | <img src="Elements/Elecrow/CrowPanel 1.28.png" width="250"/> | 240x240 | ESP32-S3 | 16MB / 8MB | 8.x | PlatformIO |
 
 </details>
@@ -88,4 +88,14 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 </details>
 
 
+---
+<img src="Elements/Lilygo/LILYGO_LOGO.png" height="70" /> 
 
+<details>
+  <summary><strong>🧩 Lilygo Boards (click to expand)</strong></summary>
+
+| 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
+|--|--|--|--|--|--|--|
+| [T-RGB](https://s.click.aliexpress.com/e/_c4mgHfh1) | <img src="Elements/Lilygo/T-RGB.png" width="250"/> | 480x480 | ESP32-S3 | 16MB / 8MB | 8.x | PlatformIO |
+
+</details>
