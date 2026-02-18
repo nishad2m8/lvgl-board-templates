@@ -33,11 +33,16 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
 |--|--|--|--|--|--|--|
-| [WaveShare 3.49"](https://s.click.aliexpress.com/e/_c3bE6ppN) | <img src="Elements/WaveShare/WaveShare 3.49.png" width="250"/> | 640x172 | ESP32-S3 | 16MB / 8MB | 9.3.0 | PlatformIO |
-| [WaveShare 1.47"](https://s.click.aliexpress.com/e/_c4F3cDgx) | <img src="Elements/WaveShare/WaveShare 1.47.png" height="100"/> | 480×480 | ESP32-C6 | 4MB | 8.3.0 | ESP-IDF | 
-| [WaveShare 4.3"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 4.3.png" width="350"/> | 800x480 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO | 
-| [WaveShare 1.54"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 1.54.png" width="100"/> | 200x200 | ESP32-S3 | 8MB / 8MB | 8.4.0 | PlatformIO & ESP-IDF | 
-| [WaveShare 1.47 S3 Tocuh"](https://s.click.aliexpress.com/e/_c34yxe2Z) | <img src="Elements/WaveShare/WaveShare 1.47 s3.png" width="250"/> | 172x320 | ESP32-S3 | 8MB / 8MB | 8.4.0 |  ESP-IDF | 
+| [WaveShare 3.49"](https://s.click.aliexpress.com/e/_c3bE6ppN) | <img src="Elements/WaveShare/WaveShare 3.49.png" height="15%"/> | 640x172 | ESP32-S3 | 16MB / 8MB | 9.3.0 | PlatformIO |
+| [WaveShare 1.47"](https://s.click.aliexpress.com/e/_c4F3cDgx) | <img src="Elements/WaveShare/WaveShare 1.47.png" height="15%"/> | 480×480 | ESP32-C6 | 4MB | 8.3.0 | ESP-IDF | 
+| [WaveShare 4.3"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 4.3.png" height="15%"/> | 800x480 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO | 
+| [WaveShare 1.54"](https://s.click.aliexpress.com/e/_c4aiCOWn) | <img src="Elements/WaveShare/WaveShare 1.54.png" height="10%"/> | 200x200 | ESP32-S3 | 8MB / 8MB | 8.4.0 | PlatformIO & ESP-IDF | 
+| [WaveShare 1.47" S3 Tocuh](https://s.click.aliexpress.com/e/_c34yxe2Z) | <img src="Elements/WaveShare/WaveShare 1.47 s3.png" height="15%"/> | 172x320 | ESP32-S3 | 8MB / 8MB | 8.4.0 |  ESP-IDF | 
+| [WaveShare 1.85" Speaker Box](https://s.click.aliexpress.com/e/_c2xny4Ld) | <img src="Elements/WaveShare/Speaker Box.png" height="15%"/> | 360x360 | ESP32-S3 | 16MB / 8MB | 8.3.x |  PlatformIO | 
+| [WaveShare 1.8" Amodel](https://s.click.aliexpress.com/e/_c3ZDDLQR) | <img src="Elements/WaveShare/WaveShare 1.8inch AMOLED.png" height="15%"/> | 368x448 | ESP32-S3 | 16MB / 8MB | 8.4.0 |  PlatformIO |
+| [WaveShare 3.97" e-Paper](https://s.click.aliexpress.com/e/_c3cHby0X) | <img src="Elements/WaveShare/WaveShare 3.97inch e-Paper.png" height="15%"/> | 800x480 | ESP32-S3 | 16MB / 8MB | 9.3.0 |  PlatformIO | 
+| [WaveShare 4.2" RLCD](https://s.click.aliexpress.com/e/_c3QL8EGP) | <img src="Elements/WaveShare/WaveShare 4.2inch RLCD.png" height="15%"/> | 400x300 | ESP32-S3 | 16MB / 8MB | 9.3.0 |  PlatformIO |
+| [WaveShare 1.75" AMOLED Round](https://s.click.aliexpress.com/e/_c4dR1lp5) | <img src="Elements/WaveShare/WaveShare 1.75inch AMOLED Round.png" height="15%"/> | 466x466 | ESP32-S3 | 32MB / 8MB | 8.4.0 |  PlatformIO |      
 
 </details>
 

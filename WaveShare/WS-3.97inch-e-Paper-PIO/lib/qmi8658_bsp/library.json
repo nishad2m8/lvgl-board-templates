@@ -1,0 +1,7 @@
+{
+  "name": "qmi8658_bsp",
+  "version": "1.0.0",
+  "build": {
+    "flags": "-I."
+  }
+}

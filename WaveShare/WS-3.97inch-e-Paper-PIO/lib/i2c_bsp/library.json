@@ -1,0 +1,7 @@
+{
+  "name": "i2c_bsp",
+  "version": "1.0.0",
+  "build": {
+    "flags": "-I."
+  }
+}

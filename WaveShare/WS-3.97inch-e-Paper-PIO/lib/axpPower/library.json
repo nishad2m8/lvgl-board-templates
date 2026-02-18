@@ -1,0 +1,10 @@
+{
+  "name": "axpPower",
+  "version": "1.0.0",
+  "build": {
+    "srcDir": ".",
+    "includeDir": ".",
+    "flags": "-Isrc -Isrc/REG",
+    "srcFilter": ["+<*.cpp>", "+<src/*.cpp>"]
+  }
+}

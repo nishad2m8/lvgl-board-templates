@@ -1,0 +1,41 @@
+{
+  "build": {
+    "arduino": {
+      "memory_type": "qio_opi"
+    },
+    "core": "esp32",
+    "extra_flags": [
+      "-DARDUINO_WAVESHARE_ESP32S3_TOUCH_AMOLED_175C",
+      "-DBOARD_HAS_PSRAM"
+    ],
+    "f_cpu": "240000000L",
+    "f_flash": "80000000L",
+    "flash_mode": "qio",
+    "hwids": [
+      ["0x303A", "0x1001"]
+    ],
+    "mcu": "esp32s3",
+    "variant": "esp32s3"
+  },
+  "connectivity": [
+    "wifi",
+    "bluetooth"
+  ],
+  "debug": {
+    "openocd_target": "esp32s3.cfg"
+  },
+  "frameworks": [
+    "arduino",
+    "espidf"
+  ],
+  "name": "Waveshare ESP32-S3 Touch AMOLED 1.75C",
+  "upload": {
+    "flash_size": "32MB",
+    "maximum_ram_size": 327680,
+    "maximum_size": 33554432,
+    "require_upload_port": true,
+    "speed": 921600
+  },
+  "url": "https://www.waveshare.com/esp32-s3-touch-amoled-1.75c.htm",
+  "vendor": "Waveshare"
+}

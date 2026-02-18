@@ -1,0 +1,7 @@
+{
+  "name": "epaper_port",
+  "version": "1.0.0",
+  "build": {
+    "flags": "-I."
+  }
+}
