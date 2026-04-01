@@ -28,7 +28,7 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 
 <img src="Elements/WaveShare/WaveShare.png" height="50" /> 
 
-<details>
+<details> 
   <summary><strong>🧩 WaveShare Boards (click to expand)</strong></summary>
 
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
@@ -42,7 +42,8 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 | [WaveShare 1.8" Amodel](https://s.click.aliexpress.com/e/_c3ZDDLQR) | <img src="Elements/WaveShare/WaveShare 1.8inch AMOLED.png" height="15%"/> | 368x448 | ESP32-S3 | 16MB / 8MB | 8.4.0 |  PlatformIO |
 | [WaveShare 3.97" e-Paper](https://s.click.aliexpress.com/e/_c3cHby0X) | <img src="Elements/WaveShare/WaveShare 3.97inch e-Paper.png" height="15%"/> | 800x480 | ESP32-S3 | 16MB / 8MB | 9.3.0 |  PlatformIO | 
 | [WaveShare 4.2" RLCD](https://s.click.aliexpress.com/e/_c3QL8EGP) | <img src="Elements/WaveShare/WaveShare 4.2inch RLCD.png" height="15%"/> | 400x300 | ESP32-S3 | 16MB / 8MB | 9.3.0 |  PlatformIO |
-| [WaveShare 1.75" AMOLED Round](https://s.click.aliexpress.com/e/_c4dR1lp5) | <img src="Elements/WaveShare/WaveShare 1.75inch AMOLED Round.png" height="15%"/> | 466x466 | ESP32-S3 | 32MB / 8MB | 8.4.0 |  PlatformIO |      
+| [WaveShare 1.75" AMOLED Round](https://s.click.aliexpress.com/e/_c4dR1lp5) | <img src="Elements/WaveShare/WaveShare 1.75inch AMOLED Round.png" height="15%"/> | 466x466 | ESP32-S3 | 32MB / 8MB | 8.4.0 |  PlatformIO |
+| [WaveShare 1.75" AMOLED Round](https://s.click.aliexpress.com/e/_c4dR1lp5) | <img src="Elements/WaveShare/WaveShare 1.75inch AMOLED Round.png" height="15%"/> | 466x466 | ESP32-S3 | 32MB / 8MB | 8.4.0 |  PlatformIO |        
 
 </details>
 
@@ -104,3 +105,16 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 | [T-RGB](https://s.click.aliexpress.com/e/_c4mgHfh1) | <img src="Elements/Lilygo/T-RGB.png" width="250"/> | 480x480 | ESP32-S3 | 16MB / 8MB | 8.x | PlatformIO |
 
 </details>
+
+---
+<img src="Elements/SeeedStudio/SeeedStudio.png" width="300" /> 
+
+<details>
+  <summary><strong>🧩 SeeedStudio (click to expand)</strong></summary>
+
+| 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
+|--|--|--|--|--|--|--|
+| [reTerminal E1002](https://s.click.aliexpress.com/e/_c3J5v80z) | <img src="Elements/SeeedStudio/reTerminal E1002.png" width="250"/> | 800x480 | ESP32-S3 | 32MB / 8MB | 9.x | PlatformIO |
+
+</details>
+
