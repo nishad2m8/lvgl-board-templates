@@ -1,0 +1,7 @@
+.cache
+.vscode
+build
+dependencies
+.DS_Store
+.claude
+.eez-project-build

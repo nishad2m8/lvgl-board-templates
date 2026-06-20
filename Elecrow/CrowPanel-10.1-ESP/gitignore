@@ -1,0 +1,11 @@
+# ESP-IDF build output (machine- and IDF-version-specific, never commit)
+build/
+
+# Component manager lock — regenerated per IDF version (5.4 vs 6.0 resolve differently)
+dependencies.lock
+
+# Generated/local sdkconfig (keep sdkconfig.defaults instead)
+sdkconfig.old
+
+# Editor / OS
+.DS_Store

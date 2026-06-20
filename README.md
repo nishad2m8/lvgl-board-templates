@@ -43,7 +43,7 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 | [WaveShare 3.97" e-Paper](https://s.click.aliexpress.com/e/_c3cHby0X) | <img src="Elements/WaveShare/WaveShare 3.97inch e-Paper.png" height="15%"/> | 800x480 | ESP32-S3 | 16MB / 8MB | 9.3.0 |  PlatformIO | 
 | [WaveShare 4.2" RLCD](https://s.click.aliexpress.com/e/_c3QL8EGP) | <img src="Elements/WaveShare/WaveShare 4.2inch RLCD.png" height="15%"/> | 400x300 | ESP32-S3 | 16MB / 8MB | 9.3.0 |  PlatformIO |
 | [WaveShare 1.75" AMOLED Round](https://s.click.aliexpress.com/e/_c4dR1lp5) | <img src="Elements/WaveShare/WaveShare 1.75inch AMOLED Round.png" height="15%"/> | 466x466 | ESP32-S3 | 32MB / 8MB | 8.4.0 |  PlatformIO |
-| [WaveShare 1.75" AMOLED Round](https://s.click.aliexpress.com/e/_c4dR1lp5) | <img src="Elements/WaveShare/WaveShare 1.75inch AMOLED Round.png" height="15%"/> | 466x466 | ESP32-S3 | 32MB / 8MB | 8.4.0 |  PlatformIO |        
+     
 
 </details>
 
@@ -59,6 +59,7 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 | [CrowPanel Advance 2.4“](https://s.click.aliexpress.com/e/_c4nFay3N) | <img src="Elements/Elecrow/CrowPanel Advance 2.4.png" width="250"/> | 320x240 | ESP32-S3 | 16MB / 8MB | 8.4.0 | PlatformIO |
 | [CrowPanel Advance 2.1“](https://s.click.aliexpress.com/e/_c4qSokFb) | <img src="Elements/Elecrow/CrowPanel 2.1.png" width="250"/> | 480x480 | ESP32-S3 | 16MB / 8MB | 8.x / 9.x | PlatformIO |
 | [CrowPanel Advance 1.28“](https://s.click.aliexpress.com/e/_c3UWSBDT) | <img src="Elements/Elecrow/CrowPanel 1.28.png" width="250"/> | 240x240 | ESP32-S3 | 16MB / 8MB | 8.x | PlatformIO |
+| [CrowPanel Advance 10.1“](https://s.click.aliexpress.com/e/_c3J84Rfr) | <img src="Elements/Elecrow/CrowPanel 10.1.png" width="250"/> | 1024x600 | ESP32-P4 | 16MB / 32MB | 9.x | PlatformIO |
 
 </details>
 

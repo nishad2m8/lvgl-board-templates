@@ -1,0 +1,32 @@
+{
+  "files": [
+    "actions.h",
+    "fonts.h",
+    "fonts/ui_font_rubik_li_40.c",
+    "fonts/ui_font_rubik_me_40.c",
+    "fonts/ui_font_rubik_re_15.c",
+    "fonts/ui_font_rubik_re_20.c",
+    "fonts/ui_font_rubik_re_30.c",
+    "images.c",
+    "images.h",
+    "images/ui_image_chicken.c",
+    "images/ui_image_dragon.c",
+    "images/ui_image_duck.c",
+    "images/ui_image_egg_chicken.c",
+    "images/ui_image_egg_dragon.c",
+    "images/ui_image_egg_duck.c",
+    "images/ui_image_egg_quail.c",
+    "images/ui_image_heater.c",
+    "images/ui_image_humidifier.c",
+    "images/ui_image_indicator.c",
+    "images/ui_image_quail.c",
+    "screens.c",
+    "screens.h",
+    "structs.h",
+    "styles.c",
+    "styles.h",
+    "ui.c",
+    "ui.h",
+    "vars.h"
+  ]
+}
