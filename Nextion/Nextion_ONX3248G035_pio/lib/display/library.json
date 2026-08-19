@@ -1,0 +1,13 @@
+{
+  "name": "display",
+  "version": "1.0.0",
+  "description": "ONX3248G035 panel bring-up (ST7796U + CST826 + PCF8574) and LVGL 9 display/indev bridge",
+  "dependencies": {
+    "lvgl/lvgl": "9.5.0",
+    "moononournation/GFX Library for Arduino": "1.5.7",
+    "adafruit/Adafruit PCF8574": "1.1.2",
+    "adafruit/Adafruit CST8XX Library": "1.1.1"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

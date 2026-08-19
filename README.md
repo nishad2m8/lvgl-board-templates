@@ -104,6 +104,7 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
 |--|--|--|--|--|--|--|
 | [T-RGB](https://s.click.aliexpress.com/e/_c4mgHfh1) | <img src="Elements/Lilygo/T-RGB.png" width="250"/> | 480x480 | ESP32-S3 | 16MB / 8MB | 8.x | PlatformIO |
+| [T-Display-S3](https://s.click.aliexpress.com/e/_c3QhnGI3) | <img src="Elements/Lilygo/T-Display-S3.png" width="250"/> | 320x170 | ESP32-S3 | 16MB / 8MB | 9.x | PlatformIO |
 
 </details>
 
@@ -116,6 +117,20 @@ _Support by using the referral link below to purchase the board 🛍️ !_
 | 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
 |--|--|--|--|--|--|--|
 | [reTerminal E1002](https://s.click.aliexpress.com/e/_c3J5v80z) | <img src="Elements/SeeedStudio/reTerminal E1002.png" width="250"/> | 800x480 | ESP32-S3 | 32MB / 8MB | 9.x | PlatformIO |
+
+</details>
+
+---
+<img src="Elements/Nextion/nextion.png" height="70" /> 
+
+<details>
+  <summary><strong>🧩 Nextion Boards (click to expand)</strong></summary>
+  
+
+| 🛍️ Board | Image | Resolution | Chip | Flash/PSRAM | LVGL Version | Framework / IDE |
+|--|--|--|--|--|--|--|
+| [ONX2432G028](https://s.click.aliexpress.com/e/_c3LJbmB9) | <img src="Elements/Nextion/ONX2432G028.png" width="250"/> | 240×320 | ESP32-S3 | 16MB / 8MB | 9.x | PlatformIO |
+| [ONX3248G035](https://s.click.aliexpress.com/e/_c4pf68zD) | <img src="Elements/Nextion/ONX3248G035.png" width="250"/> | 320×480 | ESP32-S3 | 16MB / 8MB | 9.x | PlatformIO |
 
 </details>
 
